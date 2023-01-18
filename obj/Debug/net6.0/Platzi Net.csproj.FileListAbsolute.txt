@@ -1,0 +1,15 @@
+E:\Platzi Net\bin\Debug\net6.0\Platzi Net.exe
+E:\Platzi Net\bin\Debug\net6.0\Platzi Net.deps.json
+E:\Platzi Net\bin\Debug\net6.0\Platzi Net.runtimeconfig.json
+E:\Platzi Net\bin\Debug\net6.0\Platzi Net.dll
+E:\Platzi Net\bin\Debug\net6.0\Platzi Net.pdb
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.csproj.AssemblyReference.cache
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.AssemblyInfoInputs.cache
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.AssemblyInfo.cs
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.csproj.CoreCompileInputs.cache
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.dll
+E:\Platzi Net\obj\Debug\net6.0\refint\Platzi Net.dll
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.pdb
+E:\Platzi Net\obj\Debug\net6.0\Platzi Net.genruntimeconfig.cache
+E:\Platzi Net\obj\Debug\net6.0\ref\Platzi Net.dll
